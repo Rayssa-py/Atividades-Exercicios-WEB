@@ -15,3 +15,6 @@
 | **Atividade 10** | [Ver Código](./Atividade10) | [Acessar Site](https://rayssa-py.github.io/Atividades-Exercicios-WEB/Atividade10/) |
 | **Atividade 11** | [Ver Código](./Atividade11) | [Acessar Site](https://rayssa-py.github.io/Atividades-Exercicios-WEB/Atividade11/) |
 | **Atividade 12** | [Ver Código](./Atividade12) | [Acessar Site](https://rayssa-py.github.io/Atividades-Exercicios-WEB/Atividade12/) |
+| **Atividade 13** | [Ver Código](./Atividade13) | [Acessar Site](https://rayssa-py.github.io/Atividades-Exercicios-WEB/Atividade13/) |
+| **Atividade 14** | [Ver Código](./Atividade14) | [Acessar Site](https://rayssa-py.github.io/Atividades-Exercicios-WEB/Atividade14/) |
+
